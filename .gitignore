@@ -1,1 +1,4 @@
 Design Document for Blackjack.docx
+__pycache__/*
+.vscode/*
+.DS_Store
